@@ -11,6 +11,7 @@ There are two purposes for this:
 Please fork, and add your favourite hackday packages to the list here:
 
 /_sources/packages.txt
+/_sources/apis.txt
 
 ..then make a pull request and I'll integrate.
 
