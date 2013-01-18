@@ -1,5 +1,15 @@
+Bootstrap (Twitter)
 D3
+Drupal
+Fuel
 jQuery
 jQuery UI
+Laravel
+LAMP
+MongoDB
+Node.js
 Processing.js
-Twitter Bootstrap
+Redis
+Ruby/Rails
+Socket.io
+three.js
