@@ -1,5 +1,5 @@
 # Front End Code 
-* Bootstrap (Twitter)
+* [Bootstrap (Twitter)](http://twitter.github.com/bootstrap/)
 * Backbone.js
 * D3
 * HTML5 Boilerplate
@@ -35,4 +35,3 @@
 * JSONLint http://jsonlint.com/
 * JSLint 	http://www.jslint.com/
 * python -m SimpleHTTPServer
-* 
