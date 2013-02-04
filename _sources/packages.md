@@ -36,7 +36,7 @@
 
 # Development tools
 * [JSFiddle](http://jsfiddle.net/)
-* [JSBin] (http://jsbin.com/) *Collaborative JavaScript Editing*
+* [JSBin] (http://jsbin.com/) - *Collaborative JavaScript Editing, includes Processing.js, CoffeeScript, LESS, Stylus etc.*
 * [RequestBin](http://requestb.in/)
 * [JSONLint](http://jsonlint.com/)
 * [JSLint](http://www.jslint.com/)
