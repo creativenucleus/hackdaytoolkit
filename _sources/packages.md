@@ -9,8 +9,8 @@
 * three.js
 * Underscore.js
 * [320 and up](http://stuffandnonsense.co.uk/projects/320andup/)
-* [Raphael JS](http://raphaeljs.com/) - *javascrit vector manipulation*
-* [Fabric JS](http://fabricjs.com/) - *Javascript Canvas editor with SVG conversion support*
+* [Raphael JS](http://raphaeljs.com/) - *JavaScript vector manipulation*
+* [Fabric JS](http://fabricjs.com/) - *JavaScript Canvas editor with SVG conversion support*
 * [SVG jQuery plugin](http://keith-wood.name/svg.html) - *manipulate SVG elements with jQuery*
 
 # Backend Frameworks
@@ -36,6 +36,7 @@
 
 # Development tools
 * [JSFiddle](http://jsfiddle.net/)
+* [JSBin] (http://jsbin.com/) *Collaborative JavaScript Editing*
 * [RequestBin](http://requestb.in/)
 * [JSONLint](http://jsonlint.com/)
 * [JSLint](http://www.jslint.com/)
