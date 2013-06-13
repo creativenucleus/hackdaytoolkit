@@ -34,6 +34,12 @@
 * [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
 * [XMLStarlet](http://xmlstar.sourceforge.net/doc/UG/xmlstarlet-ug.html)
 
+## Mapping
+* [Leaflet](http://leafletjs.com/)
+* [OpenStreetMap](http://www.openstreetmap.org/)
+* [TileMill](http://www.mapbox.com/tilemill/)
+* [MapStack](http://mapstack.stamen.com/) / [Stamen](http://maps.stamen.com/)
+
 # Development tools
 * [JSFiddle](http://jsfiddle.net/)
 * [JSBin] (http://jsbin.com/) - *Collaborative JavaScript Editing, includes Processing.js, CoffeeScript, LESS, Stylus etc.*

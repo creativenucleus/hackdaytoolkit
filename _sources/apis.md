@@ -1,3 +1,10 @@
+# Government, Local Government and City Data
+
+* [Gov.uk](https://www.gov.uk/support/apis)
+* [Greater Manchester, DataGM](http://www.datagm.org.uk/)
+* [CitySDK](http://www.citysdk.eu/)
+
+
 # Social Networks
 
 * [App.net](http://developers.app.net/)
