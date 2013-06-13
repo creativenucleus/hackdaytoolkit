@@ -12,19 +12,20 @@
 * [jQuery UI](http://jqueryui.com/)
 * [Processing](http://www.processing.org/)
 * [three.js](http://threejs.org/)
-* Underscore.js
+* [Underscore.js](http://underscorejs.org/)
 * [Raphael JS](http://raphaeljs.com/) - *JavaScript vector manipulation*
 * [Fabric JS](http://fabricjs.com/) - *JavaScript Canvas editor with SVG conversion support*
 * [SVG jQuery plugin](http://keith-wood.name/svg.html) - *manipulate SVG elements with jQuery*
 * [Modernizr](http://modernizr.com/) - *Make older browsers behave like newer ones*
 
 # Backend Frameworks
-* CodeIgniter
-* Drupal
-* Fuel
-* Laravel
-* LAMP
-* Node.js
+* [PHP/CodeIgniter](http://ellislab.com/codeigniter)
+* [PHP/Drupal](https://drupal.org/)
+* [PHP/Fuel](http://fuelphp.com/)
+* [PHP/Laravel](http://laravel.com/)
+* LAMP - [XAMPP](http://www.apachefriends.org/en/xampp.html), [MAMP](http://www.mamp.info/en/index.html)
+* [Node.js](http://nodejs.org/)
+* [Node/Express](http://expressjs.com/)
 * [Meteor](http://meteor.com/) - *JS-based, realtime backend / frontend*
 * Ruby/Rails
 * Socket.io
@@ -64,7 +65,7 @@
 * [Appcelerator Titanium](http://www.appcelerator.com/) - *mobile development with javascript, CLI available (and good)*
 
 # Graphic Resources
-* [Farm Fresh Icons (3,000 icons)](www.fatcow.com/free-icons) - *useful for devs with no graphical skill*
+* [Farm Fresh Icons (3,000 icons)](http://www.fatcow.com/free-icons) - *useful for devs with no graphical skill*
 
 # Infographic Resources
 * [Infogram](http://infogr.am/)
