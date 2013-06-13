@@ -1,17 +1,22 @@
 # Front End Code 
 * [Bootstrap (Twitter)](http://twitter.github.com/bootstrap/)
-* Backbone.js
-* D3
-* HTML5 Boilerplate
-* jQuery
-* jQuery UI
-* Processing.js
-* three.js
-* Underscore.js
+* [Foundation (Zurb)](http://foundation.zurb.com/)
 * [320 and up](http://stuffandnonsense.co.uk/projects/320andup/)
+* [Frameless](http://framelessgrid.com/)
+* [Backbone.js](http://backbonejs.org/)
+* [Angular.js](http://angularjs.org/)
+* [Ember.js](http://emberjs.com/)
+* [D3](http://d3js.org/)
+* [HTML5 Boilerplate](http://html5boilerplate.com/)
+* [jQuery](http://jquery.com/)
+* [jQuery UI](http://jqueryui.com/)
+* [Processing](http://www.processing.org/)
+* [three.js](http://threejs.org/)
+* Underscore.js
 * [Raphael JS](http://raphaeljs.com/) - *JavaScript vector manipulation*
 * [Fabric JS](http://fabricjs.com/) - *JavaScript Canvas editor with SVG conversion support*
 * [SVG jQuery plugin](http://keith-wood.name/svg.html) - *manipulate SVG elements with jQuery*
+* [Modernizr](http://modernizr.com/) - *Make older browsers behave like newer ones*
 
 # Backend Frameworks
 * CodeIgniter
@@ -23,6 +28,9 @@
 * [Meteor](http://meteor.com/) - *JS-based, realtime backend / frontend*
 * Ruby/Rails
 * Socket.io
+
+# Accessories
+* [Grunt](http://gruntjs.com/)
 
 # Data Storage
 * [MongoDB](http://www.mongodb.org/) - *scalable NoSQL "JSON" database, fast*
@@ -57,3 +65,10 @@
 
 # Graphic Resources
 * [Farm Fresh Icons (3,000 icons)](www.fatcow.com/free-icons) - *useful for devs with no graphical skill*
+
+# Infographic Resources
+* [Infogram](http://infogr.am/)
+
+# Inspiration
+* [Chrome Experiments](http://www.chromeexperiments.com/)
+* [Information is Beautiful](http://www.informationisbeautiful.net/)
