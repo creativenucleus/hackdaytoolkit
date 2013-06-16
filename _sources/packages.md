@@ -77,3 +77,4 @@
 * [Information is Beautiful](http://www.informationisbeautiful.net/)
 * [FlowingData](http://flowingdata.com/)
 * [Chart Porn](http://chartporn.org/)
+* [Infosthetics](http://infosthetics.com/)
