@@ -75,3 +75,5 @@
 # Inspiration
 * [Chrome Experiments](http://www.chromeexperiments.com/)
 * [Information is Beautiful](http://www.informationisbeautiful.net/)
+* [FlowingData](http://flowingdata.com/)
+* [Chart Porn](http://chartporn.org/)
