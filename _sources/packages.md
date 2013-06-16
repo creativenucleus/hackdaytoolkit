@@ -2,6 +2,7 @@
 * [Bootstrap (Twitter)](http://twitter.github.com/bootstrap/)
 * [Foundation (Zurb)](http://foundation.zurb.com/)
 * [320 and up](http://stuffandnonsense.co.uk/projects/320andup/)
+* [Tuktuk](http://tuktuk.tapquo.com/)
 * [Frameless](http://framelessgrid.com/)
 * [Backbone.js](http://backbonejs.org/)
 * [Angular.js](http://angularjs.org/)
@@ -60,12 +61,13 @@
 * [Minify JS & CSS](https://github.com/mrclay/minify) - *Removes whitespace, comments and squashes variable names for smaller HTTP requests*
 * python -m SimpleHTTPServer
 
-# IDE's
+# IDEs
 * [Sublime-Text](http://www.sublimetext.com/) - *minimal development environment with plugins, build scripts etc*
 * [Appcelerator Titanium](http://www.appcelerator.com/) - *mobile development with javascript, CLI available (and good)*
 
 # Graphic Resources
 * [Farm Fresh Icons (3,000 icons)](http://www.fatcow.com/free-icons) - *useful for devs with no graphical skill*
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 # Infographic Resources
 * [Infogram](http://infogr.am/)
