@@ -44,6 +44,9 @@
 * [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
 * [XMLStarlet](http://xmlstar.sourceforge.net/doc/UG/xmlstarlet-ug.html)
 
+# Animation
+* [GSAP](http://www.greensock.com/gsap-js/)
+
 ## Mapping
 * [Leaflet](http://leafletjs.com/)
 * [OpenStreetMap](http://www.openstreetmap.org/)
