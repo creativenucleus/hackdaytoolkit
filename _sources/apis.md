@@ -3,7 +3,8 @@
 * [Gov.uk](https://www.gov.uk/support/apis)
 * [Greater Manchester, DataGM](http://www.datagm.org.uk/)
 * [CitySDK](http://www.citysdk.eu/)
-
+* [OpenStreetMap](http://www.openstreetmap.org/)
+* [OpenWeatherMap](http://openweathermap.org/)
 
 # Social Networks
 
