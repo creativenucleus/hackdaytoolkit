@@ -33,7 +33,7 @@
 
 # Mixups
 * [Nub](https://github.com/makeshifthq/nub) - Rails bundle of functionality (MakeShiftHQ)
-* [BootBuckle](https://github.com/stefl/bootbuckle) - Ruby/Padrino bundle of framework (Stef Lewandowski)
+* [BootBuckle](https://github.com/stefl/bootbuckle) - Ruby/Padrino bundle of functionality (Stef Lewandowski)
 
 # Accessories
 * [Grunt](http://gruntjs.com/)
