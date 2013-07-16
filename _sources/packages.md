@@ -4,6 +4,7 @@
 * [320 and up](http://stuffandnonsense.co.uk/projects/320andup/)
 * [Tuktuk](http://tuktuk.tapquo.com/)
 * [Frameless](http://framelessgrid.com/)
+* [Unsemantic](http://unsemantic.com/)
 * [Backbone.js](http://backbonejs.org/)
 * [Angular.js](http://angularjs.org/)
 * [Ember.js](http://emberjs.com/)
@@ -71,6 +72,7 @@
 # IDEs
 * [Sublime-Text](http://www.sublimetext.com/) - *minimal development environment with plugins, build scripts etc*
 * [Appcelerator Titanium](http://www.appcelerator.com/) - *mobile development with javascript, CLI available (and good)*
+* [Brackets](http://brackets.io/)
 
 # Graphic Resources
 * [Farm Fresh Icons (3,000 icons)](http://www.fatcow.com/free-icons) - *useful for devs with no graphical skill*
