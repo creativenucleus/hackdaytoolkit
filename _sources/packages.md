@@ -7,6 +7,7 @@
 * [Unsemantic](http://unsemantic.com/)
 * [Backbone.js](http://backbonejs.org/)
 * [Angular.js](http://angularjs.org/)
+* [Ractive.js](http://www.ractivejs.org/)
 * [Ember.js](http://emberjs.com/)
 * [D3](http://d3js.org/)
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
