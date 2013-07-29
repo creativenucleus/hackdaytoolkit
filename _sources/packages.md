@@ -20,6 +20,7 @@
 * [Fabric JS](http://fabricjs.com/) - *JavaScript Canvas editor with SVG conversion support*
 * [SVG jQuery plugin](http://keith-wood.name/svg.html) - *manipulate SVG elements with jQuery*
 * [Modernizr](http://modernizr.com/) - *Make older browsers behave like newer ones*
+* [InK](http://ink.sapo.pt/)
 
 # Backend Frameworks
 * [PHP/CodeIgniter](http://ellislab.com/codeigniter)
@@ -32,6 +33,7 @@
 * [Meteor](http://meteor.com/) - *JS-based, realtime backend / frontend*
 * Ruby/Rails
 * Socket.io
+* [Loom](http://theengine.co/loom) - *Game engine - iOS, Android, PC, Mac, more*
 
 # Mixups
 * [Nub](https://github.com/makeshifthq/nub) - Rails bundle of functionality (MakeShiftHQ)
