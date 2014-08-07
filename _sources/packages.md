@@ -34,6 +34,7 @@
 * Ruby/Rails
 * Socket.io
 * [Loom](http://theengine.co/loom) - *Game engine - iOS, Android, PC, Mac, more*
+* [Vassal](http://www.vassalengine.org/) - *Engine for building online board or card games*
 
 # Mixups
 * [Nub](https://github.com/makeshifthq/nub) - Rails bundle of functionality (MakeShiftHQ)
@@ -51,11 +52,12 @@
 * [Google Refine](http://code.google.com/p/google-refine/)
 * [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
 * [XMLStarlet](http://xmlstar.sourceforge.net/doc/UG/xmlstarlet-ug.html)
+* [P5.js](http://p5js.org/)
 
 # Animation
 * [GSAP](http://www.greensock.com/gsap-js/)
 
-## Mapping
+# Mapping
 * [Leaflet](http://leafletjs.com/)
 * [OpenStreetMap](http://www.openstreetmap.org/)
 * [TileMill](http://www.mapbox.com/tilemill/)
