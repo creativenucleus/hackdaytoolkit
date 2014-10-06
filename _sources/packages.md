@@ -49,6 +49,7 @@
 * [SQLite](http://www.sqlite.org) - *ACID complient, portable SQL database - still good*
 
 # Data tools
+* [CSVKit](https://github.com/onyxfish/csvkit) - [helpful examples](https://source.opennews.org/en-US/articles/eleven-awesome-things-you-can-do-csvkit/)
 * [Google Refine](http://code.google.com/p/google-refine/)
 * [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
 * [XMLStarlet](http://xmlstar.sourceforge.net/doc/UG/xmlstarlet-ug.html)
